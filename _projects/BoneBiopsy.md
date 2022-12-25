@@ -1,7 +1,7 @@
 ---
 name: Bone Biopsy Simulation
 tools: [Solidworks, Fabrication]
-image: "assets/images/BoneBiopsy/picture.png"
+image: "/assets/images/BoneBiopsy/picture.png"
 description: A stand-in for human tissue in bone biopsy training
 sequence: 1
 ---
@@ -14,4 +14,4 @@ I designed the models for the 3 separate layers of tissue in CAD, and used them 
 There were a few main considerations for the design process. First, we wanted to include a variable width on the medullary and cortical bones to simulate a wider range of bone compositions. Next, we wanted to ensure the soft tissue layer was soft enough to be realistic, but durable enough to withstand many punctures. The last major consideration was finding the perfect hardnesses for the two different bone layers.
 <br> <br>
 This was a great project to be a part of, and it is going to continue into the spring semester of 2023 in a research for credit format.
-<img src="assets/images/BoneBiopsy/bonebiopsyreal.jpg" alt="Picture of the completed model" style="width:500px;height:600px;">
+<img src="/assets/images/BoneBiopsy/bonebiopsyreal.jpg" alt="Picture of the completed model" style="width:500px;height:600px;">
