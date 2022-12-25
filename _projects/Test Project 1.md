@@ -1,8 +1,8 @@
 ---
-name: Test Project 1
-tools: [Solidworks]
-image: "/assets/images/TestProject1/Picture.png"
-description:  Test description.
+name: Bone Biopsy Simulation
+tools: [Solidworks, Fabrication]
+image: "/assets/images/BoneBiopsy/Picture.png"
+description: A stand-in for human tissue in bone biopsy training
 sequence: 1
 ---
 #### <b>Test Name<b>

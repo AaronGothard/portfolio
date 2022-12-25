@@ -1,5 +1,7 @@
 ### Site Settings ###
 
+ ## To run it locally say "bundle exec jekyll serve"
+
 ### Site Settings ###
 url: "https://https://AaronGothard.github.io/"
 baseurl: ""
