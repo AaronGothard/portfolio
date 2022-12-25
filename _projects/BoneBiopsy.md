@@ -1,7 +1,7 @@
 ---
 name: Bone Biopsy Simulation
 tools: [Solidworks, Fabrication]
-image: "/assets/images/BoneBiopsy/picture.png"
+image: "assets\images\BoneBiopsy\picture.png"
 description: A stand-in for human tissue in bone biopsy training
 sequence: 1
 ---
