@@ -1,7 +1,7 @@
 ---
 name: Discord Translation Bot
 tools: [Java]
-image: "/assets/images/Discordbot/picture.png"
+image: "/assets/images/Discordbot/picture.jpg"
 description: A discord bot that translates messages between languages
 sequence: 2
 ---
