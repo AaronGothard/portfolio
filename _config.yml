@@ -61,8 +61,8 @@ collections:
 ### Analytics ###
 analytics:
   enabled: true
-  google:
-    tracking_id: #
+  google: 
+    tracking_id: G-1SPE78HWNH
 
 ### Defaults for collections ###
 defaults:
