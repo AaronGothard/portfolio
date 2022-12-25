@@ -1,0 +1,101 @@
+### Site Settings ###
+
+### Site Settings ###
+url: "https://https://AaronGothard.github.io/"
+baseurl: ""
+repository: AaronGothard/Project_Site
+title: Projects
+description: Aaron G's projects.
+
+### Navbar Settings ###
+nav_exclude:
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - pages/documentation/**
+  - pages/blog.html
+  - pages/projects.html
+
+### Author Info ###
+author:
+  name: AaronGothard
+  # image: 
+  # email: 
+  # github:
+  # linkedin:
+  # facebook          : your_username
+  # gitlab            : your_username
+  # instagram         : your_username
+  # behance           : your_username
+  # dribbble          : your_username
+  # medium            : your_username
+  # soundcloud        : your_username
+  # spotify           : your_username
+  # stackoverflow     : your_user_id
+  # tumblr            : your_username.tumblr.com
+  # twitch            : your_username
+  # twitter           : your_username
+  # vimeo             : your_username
+  # youtube           : your_channel_name
+
+### Posts ###
+# permalink: /blog/:title
+
+# disqus:
+#   shortname: your-disqus-shortname
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: projects/:name
+  elements:
+    output: true
+  about:
+    output: true
+    permaline: /about/:name
+
+
+### Analytics ###
+analytics:
+  enabled: true
+  google:
+    tracking_id: #
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "elements"
+    values:
+      layout: "element"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: "about"
+    values:
+      layout: "page"
+
+plugins:
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-redirect-from
+
+exclude:
+  - test/
+  - docs/Gemfile
+  - docs/Gemfile.lock
+  - docs/_site/
+  - docs/.sass-cache/
