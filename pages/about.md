@@ -12,7 +12,7 @@ weight: 2
 I would love to hear from you, whether it is just to chat or if you are looking for someone to join your team! My email is aaron.m.gothard@vanderbilt.edu and my resume is linked <a href="/resume.pdf" target="_blank">here</a>. Have a great day!
 </p>
 
-{%include }
+
 {% include about/index.html %}
 
 
