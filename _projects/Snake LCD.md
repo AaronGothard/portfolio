@@ -13,5 +13,8 @@ The hardware is run on an Arduino UNO being programmed in python instead of its 
 <br><br>
 A full demonstration is shown below, and the source code is hosted on my github <a href="https://github.com/AaronGothard/Snake-Python/blob/main/ArduinoSnake.py">here</a>
 <br><br>
-<a href="assets\Snake using 8x8 Matrix and Joystick Python.mp4" target="_blank">here</a>
+<video width="320" height="240" autoplay muted>
+  <source src="assets/Snake using 8x8 Matrix and Joystick Python.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
