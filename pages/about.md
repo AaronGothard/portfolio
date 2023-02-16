@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 weight: 2
 ---
-
+ <p>
+ Hi, my name is Aaron Gothard. I am currently a mechanical engineering student at Vanderbilt University. 
 {% include about/index.html %}
-{% include layouts/page_social_footer.html %}
 
 
 <!-- <div class="row">
