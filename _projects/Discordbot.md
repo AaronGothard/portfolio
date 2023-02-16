@@ -3,7 +3,7 @@ name: Discord Translation Bot
 tools: [Java, Hackathon]
 image: "/assets/images/Discordbot/picture.jpg"
 description: A discord bot that translates messages between languages
-sequence: 2
+sequence: 4
 ---
 #### <b>Discord Translation Bot<b>
 <p style="font-size:15px; padding: 0 0 1em 0;">October, 2021</p>
