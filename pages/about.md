@@ -6,6 +6,7 @@ weight: 2
 ---
 
 {% include about/index.html %}
+{% include layouts/page_social_footer.html %}
 
 
 <!-- <div class="row">
