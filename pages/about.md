@@ -1,5 +1,5 @@
 ---
-layout: page_social_footer
+layout: default_social_footer
 title: About
 permalink: /about/
 weight: 2
