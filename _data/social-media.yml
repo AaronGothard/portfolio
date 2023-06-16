@@ -24,7 +24,7 @@ facebook:
 github:
   url   : https://www.github.com/
   icon  : fab fa-github
-  color : 333333
+  color : d6c2c1
 
 gitlab:
   url   : https://www.gitlab.com/
@@ -34,7 +34,7 @@ gitlab:
 instagram:
   url   : https://www.instagram.com/
   icon  : fab fa-instagram
-  color : 405de6
+  color : ffc0cb
 
 linkedin:
   url   : https://www.linkedin.com/in/
@@ -85,3 +85,8 @@ youtube:
   url   : https://www.youtube.com/
   icon  : fab fa-youtube
   color : ff0000
+
+resume:
+  url   : https://aarongothard.com/
+  icon  : fa-solid fa-file
+  color : d6c2c1

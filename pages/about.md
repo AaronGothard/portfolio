@@ -9,11 +9,10 @@ weight: 2
 <br><br>
  I currently work as a MakerTech at the Wond'ry in Nashville, where I assist in the fabrication of a wide range of personal and professional projects: everything from workbenches to kaleidoscopes to bone biopsy training tools.
 <br><br>
-I would love to hear from you, whether it is just to chat or if you are looking for someone to join your team! My email is aaron.m.gothard@vanderbilt.edu and my resume is linked <a href="/resume.pdf" target="_blank">here</a>. Have a great day!
+I would love to hear from you, whether it is just to chat or if you are looking for someone to join your team! My email and socials are all linked below if you want to check them out, and there is also a copy of my resume for your consideration. Have a great day!
 </p>
 
-
-{% include about/index.html %}
+{% include about/timeline.html}
 
 
 <!-- <div class="row">
