@@ -12,7 +12,6 @@ weight: 2
 I would love to hear from you, whether it is just to chat or if you are looking for someone to join your team! My email and socials are all linked below if you want to check them out, and there is also a copy of my resume for your consideration. Have a great day!
 </p>
 
-{% include about/timeline.html %}
 
 
 <!-- <div class="row">
