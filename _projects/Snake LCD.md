@@ -3,7 +3,7 @@ name: Snake Game
 tools: [Python, CAD]
 image: "/assets/images/Snake Game/snake-game-icon.jpg"
 description: Snake played on an 8x8 led matrix
-sequence: 3
+sequence: 2
 ---
 #### <b>Snake in Python<b>
 <p style="font-size:15px; padding: 0 0 1em 0;">October, 2021</p>
