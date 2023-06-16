@@ -6,6 +6,7 @@ description: A discord bot that translates messages between languages
 sequence: 4
 ---
 #### <b>Discord Translation Bot<b>
+<p style="font-size:12px; color:#808080;padding: 0 0 1em 0;">Anna Chen, Kyle Burgess, Johnothan Ngoy, Chloe Nixon</p>
 <p style="font-size:15px; padding: 0 0 1em 0;">October, 2021</p>
 This project is a Discord Bot that uses the Google Cloud Translation API to translate messages from text channels into different languages. This was created as a part of a VandyHacks Hackathon and was completed in one night by myself and a group with 3 of my friends. 
 <br> <br>
